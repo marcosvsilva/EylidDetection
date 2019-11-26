@@ -7,11 +7,12 @@ __pycache__/
 *.so
 
 # Dataset
-/Dataset
+/Dataset/
 
 # Vs Project, Debug and Files
 .vs/
 x64/
+.idea/
 
 # Distribution / packaging
 .Python
